@@ -37,6 +37,13 @@ h3 {
     color: #008080;
 }
 
+h4 {
+    text-align: center;
+    font-family: Georgia, Times, "Times New Roman", serif; 
+    font-weight: 550; 
+    color: #008080;
+}
+
 p {
     text-align: justify;
     display: block;
@@ -48,16 +55,13 @@ p {
     object-fit:cover;
 }
 
-.visual {
-    min-height:250px;
-}
 
 body {
     background-color: 	#E0E0E0;
 }
 
 .container {
-    border: 50px;
+    border: 25px;
     border-left: 100px;
     padding: 25px;
 
@@ -72,8 +76,8 @@ body {
 .row {
     padding-left: 25px;
     padding-right: 25px;
-    padding-top:50px;
-    padding-bottom: 50px;
+    padding-top:25px;
+    padding-bottom: 15px;
 }
 
 @media (max-width: 480px)  {
@@ -85,3 +89,9 @@ body {
     
 }
 
+footer {
+    background-color: #008080;
+    color: white;
+}
+
+a { color: inherit; } 
