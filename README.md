@@ -1,8 +1,11 @@
 # Web-Design-Challenge
 
-Please find the main landing page under [indexl.html]
+
+Please find the main landing page under https://tiffanyycheng99.github.io/Web-Design-Challenge/index.html
+
 
 Other pages in this site:
+  - indexl.html
   - Data.html
   - MaxTemp.html
   - Humidity.html
